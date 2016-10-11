@@ -1,3 +1,9 @@
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
+
 <?php
 	/* Alternative : Use time() function for simplicity.
 			 Demerit : We will get same value for a value generated over a second. :-# */

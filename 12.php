@@ -1,9 +1,16 @@
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
+
 <?php
 	/* Alternative : Find Reverse, check all elements of reverse (boring) :-# */
 
 	function check($str,$key) {
 		$len1=strlen($str);
 		$len2=strlen($key);
+
 		for($i=0;$i<$len1;$i++) {
 			for($j=0;$j<$len2;$j++) {
 				if($str{$i+$j}!==$key[$j])

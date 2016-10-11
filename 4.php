@@ -1,7 +1,8 @@
-<!-- /*
-	To input `new_data`
-	Usage : `http://localhost/focus/4.php?add=new_data`
-*/ -->
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
 
 <?php
 
@@ -32,7 +33,8 @@
 	echo '<br/>The shortest array length is '.$min.'.';
 	echo '<br/>The longest array length is '.$max.'.';
 ?>
-
+<!--/*	To input `new_data`
+	Usage : `http://localhost/focus/4.php?add=new_data`  */-->
 
 <!-- Let's not make bugs' house.. -->
 <!--

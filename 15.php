@@ -1,6 +1,12 @@
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
+
 <?php
-	/* Alternative : Use time() function for simplicity.
-			 Demerit : We will get same value for a value generated over a second. :-# */
+	/* Alternative : Play around with ASCII using chr() function
+			ASCII for 'A' = 65 and 'a' = 97		 */
 
 	$str='abcdefghijklmnopqrstuvwxyz';
 #	echo 'Sample string is : <br/>'.$sample_str;

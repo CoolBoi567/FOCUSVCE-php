@@ -1,3 +1,8 @@
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
 <?php
 	$color=array('white','green','red');
 

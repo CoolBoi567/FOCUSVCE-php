@@ -1,3 +1,9 @@
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
+
 <?php
 	function fact($num) {
 		if($num<0)

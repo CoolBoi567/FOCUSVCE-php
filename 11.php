@@ -1,3 +1,9 @@
+<!--/*
+	Author : Prashant Shahi
+	CSE-5th Sem
+	ihahstnahsarp@gmail.com
+*/-->
+
 <?php
 	/* Alternative : Find Reverse, check all elements of reverse (boring) :# */
 
