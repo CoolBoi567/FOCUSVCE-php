@@ -13,7 +13,7 @@
 		$passwd=' ';
 		for($i=1;$i<=$key;$i++)
 			$passwd[$i]=$str{(round(microtime()*100000)/$i)%$len1};
-		/* Factorial of microtime() funciton(UNIX timestamp second as a float value) */
+		/* microtime() is funciton(UNIX timestamp second as a float value) */
 		return $passwd;
 	}
 	$sample_str='1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
