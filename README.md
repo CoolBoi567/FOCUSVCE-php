@@ -38,7 +38,7 @@ Collection of solutions of the following php tasks..
 
 
 6) Create a script to construct the following pattern, using a nested for loop. 
-\
+
     * 
     * * 
     * * * 
@@ -49,11 +49,11 @@ Collection of solutions of the following php tasks..
     * * * 
     * * 
     *
-\
 
 7) Write a PHP program to print alphabet pattern 'A' USING LOOP. 
    Expected Output:
-\
+   
+
      ***                                                       
     *   *                                                      
     *   *                                                      
@@ -62,7 +62,6 @@ Collection of solutions of the following php tasks..
     *   *                                                      
     *   *                                                      
     *   *
-\
 
 8) Write a function to calculate the factorial of a number (non-negative integer). The function accept the number as a argument  
 
