@@ -1,6 +1,6 @@
 # FOCUSVCE-php
 
-Collection of solutions of the following php tasks..
+This repository consists of the collection of solutions of the tasks given the PHP Workshop conducted by FOCUSVCE (GLUG under FSMK) at Sri Venkateswara College of Engineering(SVCE), Bangalore.
 
 1) $color = array('white', 'green', 'red'') Write a PHP script which will display the colors in the following way : 
 
